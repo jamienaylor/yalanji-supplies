@@ -2,6 +2,7 @@
 
 body {
     background: gold;
+    background-image: linear-gradient(direction, gold, black, red); 
   }
   
   
